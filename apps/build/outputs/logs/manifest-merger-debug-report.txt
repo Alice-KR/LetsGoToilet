@@ -1,0 +1,124 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:16:1-46:12
+	package
+		ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:17:5-53
+		INJECTED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml
+		INJECTED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml
+		INJECTED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:16:11-69
+	android:versionCode
+		INJECTED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml
+		INJECTED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:20:22-76
+application
+ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:23:5-45:19
+MERGED from [com.google.android.things.contrib:driver-rainbowhat:0.5] /Users/Dohyun/.android/build-cache/2925d3dd118de9d0c5535f8051d5d3320b894d4b/output/AndroidManifest.xml:26:5-30:19
+MERGED from [com.google.android.things.contrib:driver-apa102:0.3] /Users/Dohyun/.android/build-cache/71603f631ad76541254d28d518df274b3ff424f6/output/AndroidManifest.xml:26:5-28:19
+MERGED from [com.google.android.things.contrib:driver-button:0.3] /Users/Dohyun/.android/build-cache/d991629d067f55f4a8c81879e7c07c8d72be0823/output/AndroidManifest.xml:26:5-28:19
+MERGED from [com.google.android.things.contrib:driver-bmx280:0.2] /Users/Dohyun/.android/build-cache/2bdffc7ba7b0d165867ab67fec96234faa6095d8/output/AndroidManifest.xml:26:5-28:19
+MERGED from [com.google.android.things.contrib:driver-ht16k33:0.3] /Users/Dohyun/.android/build-cache/8cd58ab5dac8881554c0a15a6c63aa8a402b976c/output/AndroidManifest.xml:26:5-28:19
+MERGED from [com.google.android.things.contrib:driver-pwmspeaker:0.2] /Users/Dohyun/.android/build-cache/509b4681ef6dfcb25818caa234646c980de82dac/output/AndroidManifest.xml:26:5-28:19
+MERGED from [com.google.android.things.contrib:driver-pwmservo:0.2] /Users/Dohyun/.android/build-cache/51e8cdfdd189ce83bf383fe4a592ff2748b5a69e/output/AndroidManifest.xml:26:5-28:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] /Users/Dohyun/.android/build-cache/a6f581eae495b9728c67c7cdb675a90bb51a554c/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/Dohyun/.android/build-cache/ebdbdf07488c0c77499dc4642c383ea1bde67bba/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/Dohyun/.android/build-cache/49ee0ed5d473fad145077d0ac241dcac21ada649/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/Dohyun/.android/build-cache/7ad6434a0be639fba37bcf44deedf9b9e7f3aa4e/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/Dohyun/.android/build-cache/2639291bbdfbd281413d89745c4d1151bbb7d05a/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/Dohyun/.android/build-cache/bbbb9cfa057a3025addd570350368f795ccd7a56/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/Dohyun/.android/build-cache/03abdf97482aa7081469fefb70aecb3c9bcc4c07/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /Users/Dohyun/.android/build-cache/6fad88013a3368bba03176f4f52f59fb95803d93/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Dohyun/.android/build-cache/801fe792e1eb586cba46203c346dfabf54b23f64/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:26:9-28
+	android:allowBackup
+		ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:25:9-58
+uses-library#com.google.android.things
+ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:27:9-66
+MERGED from [com.google.android.things.contrib:driver-rainbowhat:0.5] /Users/Dohyun/.android/build-cache/2925d3dd118de9d0c5535f8051d5d3320b894d4b/output/AndroidManifest.xml:27:9-29:40
+MERGED from [com.google.android.things.contrib:driver-apa102:0.3] /Users/Dohyun/.android/build-cache/71603f631ad76541254d28d518df274b3ff424f6/output/AndroidManifest.xml:27:9-66
+MERGED from [com.google.android.things.contrib:driver-button:0.3] /Users/Dohyun/.android/build-cache/d991629d067f55f4a8c81879e7c07c8d72be0823/output/AndroidManifest.xml:27:9-66
+MERGED from [com.google.android.things.contrib:driver-bmx280:0.2] /Users/Dohyun/.android/build-cache/2bdffc7ba7b0d165867ab67fec96234faa6095d8/output/AndroidManifest.xml:27:9-66
+MERGED from [com.google.android.things.contrib:driver-ht16k33:0.3] /Users/Dohyun/.android/build-cache/8cd58ab5dac8881554c0a15a6c63aa8a402b976c/output/AndroidManifest.xml:27:9-66
+MERGED from [com.google.android.things.contrib:driver-pwmspeaker:0.2] /Users/Dohyun/.android/build-cache/509b4681ef6dfcb25818caa234646c980de82dac/output/AndroidManifest.xml:27:9-66
+MERGED from [com.google.android.things.contrib:driver-pwmservo:0.2] /Users/Dohyun/.android/build-cache/51e8cdfdd189ce83bf383fe4a592ff2748b5a69e/output/AndroidManifest.xml:27:9-66
+	android:name
+		ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:27:23-63
+activity#com.google.androidthings.education.mtg.MainActivity
+ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:29:9-44:20
+	android:name
+		ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:29:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:33:27-74
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.IOT_LAUNCHER
+ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:38:13-42:29
+category#android.intent.category.IOT_LAUNCHER
+ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:40:17-80
+	android:name
+		ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:40:27-78
+category#android.intent.category.DEFAULT
+ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:41:17-75
+	android:name
+		ADDED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml:41:27-73
+uses-sdk
+INJECTED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.things.contrib:driver-rainbowhat:0.5] /Users/Dohyun/.android/build-cache/2925d3dd118de9d0c5535f8051d5d3320b894d4b/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.things.contrib:driver-apa102:0.3] /Users/Dohyun/.android/build-cache/71603f631ad76541254d28d518df274b3ff424f6/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.things.contrib:driver-button:0.3] /Users/Dohyun/.android/build-cache/d991629d067f55f4a8c81879e7c07c8d72be0823/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.things.contrib:driver-bmx280:0.2] /Users/Dohyun/.android/build-cache/2bdffc7ba7b0d165867ab67fec96234faa6095d8/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.things.contrib:driver-ht16k33:0.3] /Users/Dohyun/.android/build-cache/8cd58ab5dac8881554c0a15a6c63aa8a402b976c/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.things.contrib:driver-pwmspeaker:0.2] /Users/Dohyun/.android/build-cache/509b4681ef6dfcb25818caa234646c980de82dac/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.things.contrib:driver-pwmservo:0.2] /Users/Dohyun/.android/build-cache/51e8cdfdd189ce83bf383fe4a592ff2748b5a69e/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.4.0] /Users/Dohyun/.android/build-cache/a6f581eae495b9728c67c7cdb675a90bb51a554c/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/Dohyun/.android/build-cache/ebdbdf07488c0c77499dc4642c383ea1bde67bba/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/Dohyun/.android/build-cache/49ee0ed5d473fad145077d0ac241dcac21ada649/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/Dohyun/.android/build-cache/7ad6434a0be639fba37bcf44deedf9b9e7f3aa4e/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/Dohyun/.android/build-cache/2639291bbdfbd281413d89745c4d1151bbb7d05a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/Dohyun/.android/build-cache/bbbb9cfa057a3025addd570350368f795ccd7a56/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/Dohyun/.android/build-cache/03abdf97482aa7081469fefb70aecb3c9bcc4c07/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /Users/Dohyun/.android/build-cache/6fad88013a3368bba03176f4f52f59fb95803d93/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Dohyun/.android/build-cache/801fe792e1eb586cba46203c346dfabf54b23f64/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.4.0] /Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml
+		INJECTED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml
+		INJECTED from /Users/Dohyun/Desktop/LetsGoToilet/apps/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.4.0] /Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] /Users/Dohyun/.android/build-cache/a6f581eae495b9728c67c7cdb675a90bb51a554c/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/Dohyun/.android/build-cache/ebdbdf07488c0c77499dc4642c383ea1bde67bba/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/Dohyun/.android/build-cache/49ee0ed5d473fad145077d0ac241dcac21ada649/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/Dohyun/.android/build-cache/7ad6434a0be639fba37bcf44deedf9b9e7f3aa4e/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/Dohyun/.android/build-cache/2639291bbdfbd281413d89745c4d1151bbb7d05a/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/Dohyun/.android/build-cache/bbbb9cfa057a3025addd570350368f795ccd7a56/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/Dohyun/.android/build-cache/03abdf97482aa7081469fefb70aecb3c9bcc4c07/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /Users/Dohyun/.android/build-cache/6fad88013a3368bba03176f4f52f59fb95803d93/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.4.0] /Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.4.0] /Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/AndroidManifest.xml:27:13-51
