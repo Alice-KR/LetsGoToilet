@@ -6,7 +6,7 @@
 > team logo
 
 ## introduction
-![Let's Go Toilet application demonstration](DemoImage.jpeg)
+[![Let's Go Toilet application demonstration](DemoImage.jpeg)](https://youtu.be/i0Yba_Emlz4)
 Let's Go Toilet은 화장실에 가고 싶을 때 버튼 하나만 눌러서 멘토님께 알림을 보낼 수 있는 Android Things 어플리케이션 입니다.
 
 ## Hardware components
