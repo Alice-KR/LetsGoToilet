@@ -13,7 +13,7 @@ Let's Go Toilet은 화장실에 가고 싶을 때 버튼 하나만 눌러서 멘
 - [Pico Pro Maker Kit 1개](https://developer.android.com/things/hardware/imx7d-kit.html#unbox)
 
 ## Software apps and online services
-- [[Slack Incoming Webhook](https://api.slack.com/incoming-webhooks)](https://youtu.be/i0Yba_Emlz4)
+- [Slack Incoming Webhook](https://api.slack.com/incoming-webhooks)
 
 ## How to use
 1. 해당 어플리케이션 zip 파일을 다운로드하거나 clone을 합니다.
