@@ -1,46 +1,90 @@
 [
     {
-        "merged": "/Users/Dohyun/Desktop/LetsGoToilet/apps/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/res/color/abc_primary_text_material_light.xml"
+        "merged": "C:\\Users\\Dohyun\\Desktop\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Dohyun\\.android\\build-cache\\ba98f4312adf2add3ea8e7e4d6630ab11f896929\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/Dohyun/Desktop/LetsGoToilet/apps/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/res/color/abc_hint_foreground_material_light.xml"
+        "merged": "C:\\Users\\yjin\\gittmp\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\yjin\\.android\\build-cache\\11d654d69ed8050774dad0b4773d05405f2bdf76\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/Dohyun/Desktop/LetsGoToilet/apps/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/res/color/abc_search_url_text.xml"
+        "merged": "C:\\Users\\Dohyun\\Desktop\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Dohyun\\.android\\build-cache\\ba98f4312adf2add3ea8e7e4d6630ab11f896929\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/Dohyun/Desktop/LetsGoToilet/apps/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/res/color/switch_thumb_material_light.xml"
+        "merged": "C:\\Users\\Dohyun\\Desktop\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Dohyun\\.android\\build-cache\\ba98f4312adf2add3ea8e7e4d6630ab11f896929\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "/Users/Dohyun/Desktop/LetsGoToilet/apps/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/res/color/abc_primary_text_disable_only_material_light.xml"
+        "merged": "C:\\Users\\yjin\\gittmp\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\yjin\\.android\\build-cache\\11d654d69ed8050774dad0b4773d05405f2bdf76\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/Users/Dohyun/Desktop/LetsGoToilet/apps/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/res/color/abc_secondary_text_material_dark.xml"
+        "merged": "C:\\Users\\yjin\\gittmp\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\yjin\\.android\\build-cache\\11d654d69ed8050774dad0b4773d05405f2bdf76\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "/Users/Dohyun/Desktop/LetsGoToilet/apps/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/res/color/abc_primary_text_material_dark.xml"
+        "merged": "C:\\Users\\yjin\\gittmp\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\yjin\\.android\\build-cache\\11d654d69ed8050774dad0b4773d05405f2bdf76\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/Dohyun/Desktop/LetsGoToilet/apps/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/res/color/switch_thumb_material_dark.xml"
+        "merged": "C:\\Users\\yjin\\gittmp\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\yjin\\.android\\build-cache\\11d654d69ed8050774dad0b4773d05405f2bdf76\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "/Users/Dohyun/Desktop/LetsGoToilet/apps/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/res/color/abc_secondary_text_material_light.xml"
+        "merged": "C:\\Users\\Dohyun\\Desktop\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Dohyun\\.android\\build-cache\\ba98f4312adf2add3ea8e7e4d6630ab11f896929\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/Users/Dohyun/Desktop/LetsGoToilet/apps/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "C:\\Users\\yjin\\gittmp\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\yjin\\.android\\build-cache\\11d654d69ed8050774dad0b4773d05405f2bdf76\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/Users/Dohyun/Desktop/LetsGoToilet/apps/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
-        "source": "/Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/res/color/abc_hint_foreground_material_dark.xml"
+        "merged": "C:\\Users\\Dohyun\\Desktop\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Dohyun\\.android\\build-cache\\ba98f4312adf2add3ea8e7e4d6630ab11f896929\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dohyun\\Desktop\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Dohyun\\.android\\build-cache\\ba98f4312adf2add3ea8e7e4d6630ab11f896929\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dohyun\\Desktop\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Dohyun\\.android\\build-cache\\ba98f4312adf2add3ea8e7e4d6630ab11f896929\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dohyun\\Desktop\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Dohyun\\.android\\build-cache\\ba98f4312adf2add3ea8e7e4d6630ab11f896929\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dohyun\\Desktop\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Dohyun\\.android\\build-cache\\ba98f4312adf2add3ea8e7e4d6630ab11f896929\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\yjin\\gittmp\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\yjin\\.android\\build-cache\\11d654d69ed8050774dad0b4773d05405f2bdf76\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dohyun\\Desktop\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Dohyun\\.android\\build-cache\\ba98f4312adf2add3ea8e7e4d6630ab11f896929\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\yjin\\gittmp\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\yjin\\.android\\build-cache\\11d654d69ed8050774dad0b4773d05405f2bdf76\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\yjin\\gittmp\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\yjin\\.android\\build-cache\\11d654d69ed8050774dad0b4773d05405f2bdf76\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\yjin\\gittmp\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\yjin\\.android\\build-cache\\11d654d69ed8050774dad0b4773d05405f2bdf76\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dohyun\\Desktop\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Dohyun\\.android\\build-cache\\ba98f4312adf2add3ea8e7e4d6630ab11f896929\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\yjin\\gittmp\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\yjin\\.android\\build-cache\\11d654d69ed8050774dad0b4773d05405f2bdf76\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     }
 ]

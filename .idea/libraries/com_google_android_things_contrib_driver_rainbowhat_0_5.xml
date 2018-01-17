@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.google.android.things.contrib:driver-rainbowhat-0.5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/2ed362110bc7d985c5bc267e781591e79972de97/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/2ed362110bc7d985c5bc267e781591e79972de97/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.things.contrib/driver-rainbowhat/0.5/36c764c54cd1357e2883f98f4b1ffe9144f85d3/driver-rainbowhat-0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

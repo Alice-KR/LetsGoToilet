@@ -1,26 +1,50 @@
 [
     {
-        "merged": "/Users/Dohyun/Desktop/LetsGoToilet/apps/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
-        "source": "/Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/res/layout-v11/notification_template_big_media_narrow.xml"
+        "merged": "C:\\Users\\yjin\\gittmp\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\yjin\\.android\\build-cache\\11d654d69ed8050774dad0b4773d05405f2bdf76\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/Users/Dohyun/Desktop/LetsGoToilet/apps/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
-        "source": "/Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/res/layout-v11/notification_media_cancel_action.xml"
+        "merged": "C:\\Users\\Dohyun\\Desktop\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Dohyun\\.android\\build-cache\\ba98f4312adf2add3ea8e7e4d6630ab11f896929\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "/Users/Dohyun/Desktop/LetsGoToilet/apps/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
-        "source": "/Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/res/layout-v11/notification_media_action.xml"
+        "merged": "C:\\Users\\yjin\\gittmp\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\yjin\\.android\\build-cache\\11d654d69ed8050774dad0b4773d05405f2bdf76\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/Users/Dohyun/Desktop/LetsGoToilet/apps/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
-        "source": "/Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/res/layout-v11/notification_template_big_media.xml"
+        "merged": "C:\\Users\\Dohyun\\Desktop\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Dohyun\\.android\\build-cache\\ba98f4312adf2add3ea8e7e4d6630ab11f896929\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/Users/Dohyun/Desktop/LetsGoToilet/apps/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
-        "source": "/Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/res/layout-v11/notification_template_big_media_custom.xml"
+        "merged": "C:\\Users\\yjin\\gittmp\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\yjin\\.android\\build-cache\\11d654d69ed8050774dad0b4773d05405f2bdf76\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "/Users/Dohyun/Desktop/LetsGoToilet/apps/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
-        "source": "/Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+        "merged": "C:\\Users\\Dohyun\\Desktop\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Dohyun\\.android\\build-cache\\ba98f4312adf2add3ea8e7e4d6630ab11f896929\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dohyun\\Desktop\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Dohyun\\.android\\build-cache\\ba98f4312adf2add3ea8e7e4d6630ab11f896929\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\yjin\\gittmp\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\yjin\\.android\\build-cache\\11d654d69ed8050774dad0b4773d05405f2bdf76\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dohyun\\Desktop\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Dohyun\\.android\\build-cache\\ba98f4312adf2add3ea8e7e4d6630ab11f896929\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dohyun\\Desktop\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Dohyun\\.android\\build-cache\\ba98f4312adf2add3ea8e7e4d6630ab11f896929\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\yjin\\gittmp\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\yjin\\.android\\build-cache\\11d654d69ed8050774dad0b4773d05405f2bdf76\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\yjin\\gittmp\\LetsGoToilet\\apps\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\yjin\\.android\\build-cache\\11d654d69ed8050774dad0b4773d05405f2bdf76\\output\\res\\layout-v11\\notification_template_big_media.xml"
     }
 ]

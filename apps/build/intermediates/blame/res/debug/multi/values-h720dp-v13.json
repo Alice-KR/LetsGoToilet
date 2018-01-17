@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/Dohyun/Desktop/LetsGoToilet/apps/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+        "outputFile": "C:\\Users\\Dohyun\\Desktop\\LetsGoToilet\\apps\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "/Users/Dohyun/.android/build-cache/ba98f4312adf2add3ea8e7e4d6630ab11f896929/output/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "file": "C:\\Users\\Dohyun\\.android\\build-cache\\ba98f4312adf2add3ea8e7e4d6630ab11f896929\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\yjin\\gittmp\\LetsGoToilet\\apps\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "C:\\Users\\yjin\\.android\\build-cache\\11d654d69ed8050774dad0b4773d05405f2bdf76\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
